@@ -1,0 +1,30 @@
+.repo-table-container {
+  width: 100%;
+  text-align: left;
+}
+
+.repo-table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.repo-table tr {
+  padding: 10px; 
+}
+
+.table-headers {
+  font-weight: bold;
+  line-height: 40px;
+}
+
+.action-cell {
+  cursor: pointer;
+  color: #996fdf;
+  text-decoration: underline;
+}
+
+.repo-url {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.app-container {
+  height: 100vh;
+}
+
+.header {
+  height: 5%;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  background-color: #7433f1;
+  padding: 30px;
+}
+
+.float-left {
+  float: left;
+  width: 50%;
+  height: 100%;
+  margin-top: 30px;
+}
+
+.float-left .repo-table-container {
+  margin-left: 10%;
+  margin-top: 50px;
+}
+
+.float-right {
+  float: right;
+  width: 50%;
+  height: 100%;
+  background-color: #f3ecfd;
+}
+
+.float-right .repo-table-container {
+  margin-top: 30px;
+  margin-left: 40px;
+}

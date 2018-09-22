@@ -1,0 +1,23 @@
+.search-container {
+  text-align: center;
+}
+
+.search-txt, .search-btn {
+  padding: 10px;
+  border-width: 1px;
+  border-radius: 3px;
+}
+
+.search-txt {
+  width: 60%;
+  margin-right: 10px;
+  border-color: #a3a0a5;
+}
+
+.search-btn {
+  width: 20%;
+  color: white;
+  border-color: transparent;
+  background-color: #7433f1;
+  cursor: pointer;
+}
